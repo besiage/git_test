@@ -1,3 +1,5 @@
+this is to test the git commit without the -m flag for messages so that i can write the messages in the VS code editor
+
 this is a modification to hello world to test something
 
 this is some text to add to the hello world file to give it something to look like instead of being a blank file.
